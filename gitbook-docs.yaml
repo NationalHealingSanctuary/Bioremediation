@@ -3,37 +3,11 @@ site:
   title: National Healing Sanctuary Docs
   structure:
     - type: section
-      key: section-3
-      title: API Reference
-      path: api-reference
-      icon: terminal
-      default: true
-      children:
-        - type: space
-          key: space-3
-          title: API Reference
-          path: api-reference
-          default: true
-          content:
-            directory: ./api-reference
-    - type: section
-      key: section-4
-      title: Changelog
-      path: changelog
-      icon: clock-rotate-left
-      children:
-        - type: space
-          key: space-4
-          title: Changelog
-          path: changelog
-          default: true
-          content:
-            directory: ./changelog
-    - type: section
       key: section-5
       title: Help Center
       path: help-center
       icon: life-ring
+      default: true
       children:
         - type: space
           key: space-5
