@@ -3,24 +3,11 @@ site:
   title: National Healing Sanctuary Docs
   structure:
     - type: section
-      key: section-2
-      title: Documentation
-      path: documentation
-      icon: book-blank
-      default: true
-      children:
-        - type: space
-          key: space-2
-          title: Documentation
-          path: documentation
-          default: true
-          content:
-            directory: ./documentation
-    - type: section
       key: section-3
       title: API Reference
       path: api-reference
       icon: terminal
+      default: true
       children:
         - type: space
           key: space-3
