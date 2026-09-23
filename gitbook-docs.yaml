@@ -3,19 +3,6 @@ site:
   title: National Healing Sanctuary Docs
   structure:
     - type: section
-      key: section-7
-      title: National Healing Sanctuary
-      path: national-healing-sanctuary
-      children:
-        - type: space
-          key: space-6
-          title: National Healing Sanctuary
-          path: national-healing-sanctuary
-          default: true
-          draft: true
-          content:
-            directory: ./national-healing-sanctuary
-    - type: section
       key: section-1
       title: Home
       path: home
