@@ -3,23 +3,10 @@ site:
   title: National Healing Sanctuary Docs
   structure:
     - type: section
-      key: section-5
-      title: Help Center
-      path: help-center
-      icon: life-ring
-      default: true
-      children:
-        - type: space
-          key: space-5
-          title: Help Center
-          path: help-center
-          default: true
-          content:
-            directory: ./help-center
-    - type: section
       key: section-1
       title: National Healing Sanctuary
       path: national-healing-sanctuary
+      default: true
       children:
         - type: space
           key: space-1
