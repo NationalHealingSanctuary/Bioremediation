@@ -33,4 +33,17 @@ site:
       key: section-group-1
       title: Public Governance Archive
       draft: true
-      children: []
+      children:
+        - type: section
+          key: section-3
+          title: "SUBMISSION: Environmental Health Bill, 2026"
+          path: submission-environmental-health-bill-2026
+          children:
+            - type: space
+              key: space-3
+              title: "SUBMISSION: Environmental Health Bill, 2026"
+              path: submission-environmental-health-bill-2026
+              default: true
+              draft: true
+              content:
+                directory: ./submission-environmental-health-bill-2026
