@@ -29,3 +29,8 @@ site:
           draft: true
           content:
             directory: ./phytostabilization-protocol-v1.0
+    - type: section-group
+      key: section-group-1
+      title: Public Governance Archive
+      draft: true
+      children: []
