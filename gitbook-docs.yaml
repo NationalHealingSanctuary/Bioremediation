@@ -26,7 +26,6 @@ site:
           title: Phytostabilization Protocol v1.0
           path: phytostabilization-protocol-v1.0
           default: true
-          draft: true
           content:
             directory: ./phytostabilization-protocol-v1.0
     - type: section-group
