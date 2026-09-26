@@ -42,6 +42,5 @@ site:
               title: "SUBMISSION: Environmental Health Bill, 2026"
               path: submission-environmental-health-bill-2026
               default: true
-              draft: true
               content:
                 directory: ./submission-environmental-health-bill-2026
