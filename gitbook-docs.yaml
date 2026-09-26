@@ -32,7 +32,6 @@ site:
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
-      draft: true
       children:
         - type: section
           key: section-3
