@@ -29,6 +29,11 @@ site:
           default: true
           content:
             directory: ./national-healing-sanctuary
+    - type: section-group
+      key: section-group-3
+      title: Biological Remediation Protocols
+      draft: true
+      children: []
     - type: section
       key: section-2
       title: Phytostabilization Protocol v1.0
