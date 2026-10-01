@@ -47,7 +47,6 @@ site:
     - type: section-group
       key: section-group-2
       title: Integrated Vegetation Management (IVM) 4-Tier Risk Architecture
-      draft: true
       children:
         - type: section
           key: section-4
@@ -59,6 +58,5 @@ site:
               title: IVM & COPPICING PROTOCOL
               path: ivm-and-coppicing-protocol
               default: true
-              draft: true
               content:
                 directory: ./ivm-and-coppicing-protocol
