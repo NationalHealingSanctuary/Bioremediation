@@ -44,16 +44,21 @@ site:
               default: true
               content:
                 directory: ./submission-environmental-health-bill-2026
-    - type: section
-      key: section-4
+    - type: section-group
+      key: section-group-2
       title: Integrated Vegetation Management (IVM) 4-Tier Risk Architecture
-      path: integrated-vegetation-management-ivm-4-tier-risk-architecture
+      draft: true
       children:
-        - type: space
-          key: space-4
-          title: Integrated Vegetation Management (IVM) 4-Tier Risk
-          path: integrated-vegetation-management-ivm-4-tier-risk
-          default: true
-          draft: true
-          content:
-            directory: ./integrated-vegetation-management-ivm-4-tier-risk-architecture/integrated-vegetation-management-ivm-4-tier-risk
+        - type: section
+          key: section-4
+          title: Integrated Vegetation Management (IVM) 4-Tier Risk Architecture
+          path: integrated-vegetation-management-ivm-4-tier-risk-architecture
+          children:
+            - type: space
+              key: space-4
+              title: Integrated Vegetation Management (IVM) 4-Tier Risk
+              path: integrated-vegetation-management-ivm-4-tier-risk
+              default: true
+              draft: true
+              content:
+                directory: ./integrated-vegetation-management-ivm-4-tier-risk-architecture/integrated-vegetation-management-ivm-4-tier-risk
