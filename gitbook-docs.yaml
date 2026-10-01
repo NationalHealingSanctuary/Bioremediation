@@ -60,3 +60,16 @@ site:
               default: true
               content:
                 directory: ./ivm-and-coppicing-protocol
+        - type: section
+          key: section-5
+          title: IVM Database
+          path: ivm-database
+          children:
+            - type: space
+              key: space-5
+              title: IVM Database
+              path: ivm-database
+              default: true
+              draft: true
+              content:
+                directory: ./ivm-database
