@@ -6,6 +6,7 @@ site:
       key: section-5
       title: National Healing Sanctuary
       path: national-healing-sanctuary-1
+      default: true
       children:
         - type: space
           key: space-5
@@ -20,7 +21,6 @@ site:
       title: Conceptual Site Model
       path: national-healing-sanctuary
       description: ""
-      default: true
       children:
         - type: space
           key: space-1
@@ -33,19 +33,19 @@ site:
       key: section-group-3
       title: Biological Remediation Protocols
       draft: true
-      children: []
-    - type: section
-      key: section-2
-      title: Phytostabilization Protocol v1.0
-      path: phytostabilization-protocol-v1.0
       children:
-        - type: space
-          key: space-2
+        - type: section
+          key: section-2
           title: Phytostabilization Protocol v1.0
           path: phytostabilization-protocol-v1.0
-          default: true
-          content:
-            directory: ./phytostabilization-protocol-v1.0
+          children:
+            - type: space
+              key: space-2
+              title: Phytostabilization Protocol v1.0
+              path: phytostabilization-protocol-v1.0
+              default: true
+              content:
+                directory: ./phytostabilization-protocol-v1.0
     - type: section-group
       key: section-group-2
       title: Integrated Vegetation Management (IVM) 4-Tier Risk Architecture
