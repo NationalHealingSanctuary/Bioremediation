@@ -29,22 +29,6 @@ site:
           content:
             directory: ./phytostabilization-protocol-v1.0
     - type: section-group
-      key: section-group-1
-      title: Public Governance Archive
-      children:
-        - type: section
-          key: section-3
-          title: "SUBMISSION: Environmental Health Bill, 2026"
-          path: submission-environmental-health-bill-2026
-          children:
-            - type: space
-              key: space-3
-              title: "SUBMISSION: Environmental Health Bill, 2026"
-              path: submission-environmental-health-bill-2026
-              default: true
-              content:
-                directory: ./submission-environmental-health-bill-2026
-    - type: section-group
       key: section-group-2
       title: Integrated Vegetation Management (IVM) 4-Tier Risk Architecture
       children:
@@ -60,3 +44,19 @@ site:
               default: true
               content:
                 directory: ./ivm-and-coppicing-protocol
+    - type: section-group
+      key: section-group-1
+      title: Public Governance Archive
+      children:
+        - type: section
+          key: section-3
+          title: "SUBMISSION: Environmental Health Bill, 2026"
+          path: submission-environmental-health-bill-2026
+          children:
+            - type: space
+              key: space-3
+              title: "SUBMISSION: Environmental Health Bill, 2026"
+              path: submission-environmental-health-bill-2026
+              default: true
+              content:
+                directory: ./submission-environmental-health-bill-2026
