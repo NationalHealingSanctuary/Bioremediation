@@ -1,8 +1,8 @@
 ---
 description: >-
-  A scientifically grounded operational blueprint designed for engineered
-  landfill environments, bioswales, and coastal capping sites in Grand Cayman.
-  This repository governs the deployment, mechanical
+  An open-source, 4-tier risk architecture and phytoremediation framework for
+  tropical landfill capping, vegetative control, and subterranean biomass
+  management.
 ---
 
 # IVM (Integrated Vegetation Management) & COPPICING PROTOCOL
