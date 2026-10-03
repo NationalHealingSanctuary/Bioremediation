@@ -51,7 +51,7 @@ site:
               path: ivm-change-log-2.0
               draft: true
               content:
-                directory: ./ivm-and-coppicing-protocol/changelog
+                directory: ./ivm-and-coppicing-protocol
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
