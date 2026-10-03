@@ -45,13 +45,6 @@ site:
               default: true
               content:
                 directory: ./ivm-and-coppicing-protocol
-            - type: space
-              key: space-6
-              title: IVM Canvas
-              path: ivm-canvas
-              draft: true
-              content:
-                directory: ./ivm-and-coppicing-protocol/ivm-canvas
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
