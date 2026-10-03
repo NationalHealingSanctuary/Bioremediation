@@ -48,7 +48,7 @@ site:
             - type: space
               key: space-6
               title: Changelog
-              path: changelog
+              path: ivm-change-log-2.0
               draft: true
               content:
                 directory: ./ivm-and-coppicing-protocol/changelog
