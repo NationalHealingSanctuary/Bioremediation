@@ -45,6 +45,13 @@ site:
               default: true
               content:
                 directory: ./ivm-and-coppicing-protocol
+            - type: space
+              key: space-6
+              title: Changelog
+              path: changelog
+              draft: true
+              content:
+                directory: ./ivm-and-coppicing-protocol/changelog
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
