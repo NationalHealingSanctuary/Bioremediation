@@ -55,19 +55,7 @@ site:
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
-      children:
-        - type: section
-          key: section-2
-          title: Phytostabilization Protocol v1.0
-          path: phytostabilization-protocol-v1.0
-          children:
-            - type: space
-              key: space-2
-              title: Phytostabilization Protocol v1.0
-              path: phytostabilization-protocol-v1.0
-              default: true
-              content:
-                directory: ./phytostabilization-protocol-v1.0
+      children: []
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
@@ -88,4 +76,16 @@ site:
       key: section-group-4
       title: " Phytostabilization Protocol"
       draft: true
-      children: []
+      children:
+        - type: section
+          key: section-2
+          title: Phytostabilization Protocol v1.0
+          path: phytostabilization-protocol-v1.0
+          children:
+            - type: space
+              key: space-2
+              title: Phytostabilization Protocol v1.0
+              path: phytostabilization-protocol-v1.0
+              default: true
+              content:
+                directory: ./phytostabilization-protocol-v1.0
