@@ -49,7 +49,6 @@ site:
               key: space-6
               title: Changelog
               path: ivm-change-log-2.0
-              draft: true
               content:
                 directory: ./ivm-and-coppicing-protocol
     - type: section-group
