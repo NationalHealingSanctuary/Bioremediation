@@ -84,3 +84,8 @@ site:
               default: true
               content:
                 directory: ./submission-environmental-health-bill-2026
+    - type: section-group
+      key: section-group-4
+      title: " Phytostabilization Protocol"
+      draft: true
+      children: []
