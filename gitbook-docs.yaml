@@ -75,12 +75,12 @@ site:
     - type: section-group
       key: section-group-4
       title: " Phytostabilization Protocol"
-      draft: true
       children:
         - type: section
           key: section-2
           title: Phytostabilization Protocol v1.0
           path: phytostabilization-protocol-v1.0
+          description: ""
           children:
             - type: space
               key: space-2
