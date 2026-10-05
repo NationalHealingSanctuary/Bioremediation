@@ -89,19 +89,6 @@ site:
               content:
                 directory: ./phytostabilization-protocol-v1.0
     - type: section
-      key: section-6
-      title: Landing Page
-      path: landing-page
-      children:
-        - type: space
-          key: space-7
-          title: Landing Page
-          path: landing-page
-          default: true
-          draft: true
-          content:
-            directory: ./landing-page
-    - type: section
       key: section-7
       title: National Healing Sanctuary Home
       path: national-healing-sanctuary-home
