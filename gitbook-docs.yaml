@@ -6,13 +6,13 @@ site:
       key: section-7
       title: National Healing Sanctuary Home
       path: national-healing-sanctuary-home
+      description: A Global Open-Source Framework for Biological Architecture &amp; Bioremediation
       children:
         - type: space
           key: space-8
           title: National Healing Sanctuary Home
           path: national-healing-sanctuary-home
           default: true
-          draft: true
           content:
             directory: ./national-healing-sanctuary-home
     - type: section
