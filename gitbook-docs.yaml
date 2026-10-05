@@ -88,3 +88,8 @@ site:
               default: true
               content:
                 directory: ./phytostabilization-protocol-v1.0
+    - type: section-group
+      key: section-group-5
+      title: Plant Remediation Mechanisms
+      draft: true
+      children: []
