@@ -87,7 +87,6 @@ site:
                   title: Phytodesalination v1.0
                   path: phytodesalination
                   default: true
-                  draft: true
                   content:
                     directory: ./phytodesalination
     - type: section-group
