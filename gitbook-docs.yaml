@@ -54,7 +54,24 @@ site:
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
-      children: []
+      children:
+        - type: section-group
+          key: section-group-4
+          title: " Phytostabilization Protocol"
+          children:
+            - type: section
+              key: section-2
+              title: Phytostabilization Protocol v1.0
+              path: phytostabilization-protocol-v1.0
+              description: ""
+              children:
+                - type: space
+                  key: space-2
+                  title: Phytostabilization Protocol v1.0
+                  path: phytostabilization-protocol-v1.0
+                  default: true
+                  content:
+                    directory: ./phytostabilization-protocol-v1.0
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
@@ -71,23 +88,6 @@ site:
               default: true
               content:
                 directory: ./submission-environmental-health-bill-2026
-    - type: section-group
-      key: section-group-4
-      title: " Phytostabilization Protocol"
-      children:
-        - type: section
-          key: section-2
-          title: Phytostabilization Protocol v1.0
-          path: phytostabilization-protocol-v1.0
-          description: ""
-          children:
-            - type: space
-              key: space-2
-              title: Phytostabilization Protocol v1.0
-              path: phytostabilization-protocol-v1.0
-              default: true
-              content:
-                directory: ./phytostabilization-protocol-v1.0
     - type: section-group
       key: section-group-5
       title: Plant Remediation Mechanisms
