@@ -46,31 +46,21 @@ Before moving a single scoop of dirt or drafting an intervention plan, every NHS
 
 > **"Observe first. Map second. Test third. Intervene last."**
 
-{% stepper %}
-{% step %}
 ## 👁️ Observe First
 
-Watch how rain, sun, wind, and wild native flora move across the site. Listen to what the land communicates before touching a single leaf.
-{% endstep %}
+Watch how rain, sun, wind, and wild native flora move across the site. Listen to what the land communicates before touching a single leaf
 
-{% step %}
 ## 🗺️ Map Second
 
-Build your **Conceptual Site Model (CSM)**. Understand how water, soil, contaminant sources, and human exposure pathways connect across the ecosystem.
-{% endstep %}
+Build your **Conceptual Site Model (CSM)**. Understand how water, soil, contaminant sources, and human exposure pathways connect across the ecosystem
 
-{% step %}
 ## 🧪 Test Third
 
-Conduct small, controlled field trials. Observe how native plant species and soil biology respond in localized plots before scaling up operations.
-{% endstep %}
+Conduct small, controlled field trials. Observe how native plant species and soil biology respond in localized plots before scaling up operations
 
-{% step %}
 ## 🌿 Intervene Last
 
 Deploy targeted biological solutions—such as deep taproot anchors and "chop & drop" coppicing—only after fully understanding the site mechanics.
-{% endstep %}
-{% endstepper %}
 
 ## Open-source environmental restoration research
 
@@ -82,23 +72,18 @@ Because environmental restoration tools should be accessible to communities worl
 
 As you explore our open repository, please keep these two operational notes in mind:
 
-{% stepper %}
-{% step %}
+
 ## Google Drive Spatial Canvases (Desktop Recommended)
 
 The open Google Drive folder contains high-density Canvas sheets featuring our 18-parameter plant registers, CSM matrices, and spatial zoning maps. **Please open these files on a desktop browser**—their large dimensions are unsupported on mobile viewports.
-{% endstep %}
 
-{% step %}
 ## Static Baselines & Node.js + Astro Roadmap
 
 The current Canvas sheets represent **offline, static baseline models** (not yet wired to live APIs). I am actively engineering our full-stack web platform on **Node.js + Astro** to link these static plant matrices directly to real-time environmental IoT sensor feeds!
-{% endstep %}
-{% endstepper %}
+
 
 ## Bioremediation safety and site-specific design
 
-{% hint style="warning" %}
 **Bioremediation is as unique as a fingerprint!**
 
 Every site on Earth possesses distinct soil chemistry, hydrogeology, native plant communities, and microclimates. While this framework is shared freely for educational and design purposes, **please do not deploy these protocols on active or hazardous waste sites without site-specific environmental testing and engineering approval.** What functions effectively on porous tropical limestone may require adaptation for clay soils or temperate regions!
