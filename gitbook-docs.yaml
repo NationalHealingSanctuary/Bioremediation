@@ -88,8 +88,3 @@ site:
               default: true
               content:
                 directory: ./submission-environmental-health-bill-2026
-    - type: section-group
-      key: section-group-5
-      title: Plant Remediation Mechanisms
-      draft: true
-      children: []
