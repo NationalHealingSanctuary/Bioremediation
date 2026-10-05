@@ -75,17 +75,16 @@ site:
         - type: section-group
           key: section-group-5
           title: "Phytodesalination "
-          draft: true
           children:
             - type: section
               key: section-5
-              title: Phytodesalination
+              title: Phytodesalination v1.0
               path: phytodesalination
               description: ""
               children:
                 - type: space
                   key: space-5
-                  title: Phytodesalination
+                  title: Phytodesalination v1.0
                   path: phytodesalination
                   default: true
                   draft: true
