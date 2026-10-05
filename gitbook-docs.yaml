@@ -3,18 +3,18 @@ site:
   title: National Healing Sanctuary Docs
   structure:
     - type: section
-      key: section-5
-      title: National Healing Sanctuary
-      path: national-healing-sanctuary-1
+      key: section-7
+      title: National Healing Sanctuary Home
+      path: national-healing-sanctuary-home
       children:
         - type: space
-          key: space-5
-          title: National Healing Sanctuary
-          path: national-healing-sanctuary
+          key: space-8
+          title: National Healing Sanctuary Home
+          path: national-healing-sanctuary-home
           default: true
           draft: true
           content:
-            directory: ./national-healing-sanctuary-1/national-healing-sanctuary
+            directory: ./national-healing-sanctuary-home
     - type: section
       key: section-1
       title: Conceptual Site Model
@@ -88,16 +88,3 @@ site:
               default: true
               content:
                 directory: ./phytostabilization-protocol-v1.0
-    - type: section
-      key: section-7
-      title: National Healing Sanctuary Home
-      path: national-healing-sanctuary-home
-      children:
-        - type: space
-          key: space-8
-          title: National Healing Sanctuary Home
-          path: national-healing-sanctuary-home
-          default: true
-          draft: true
-          content:
-            directory: ./national-healing-sanctuary-home
