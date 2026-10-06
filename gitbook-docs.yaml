@@ -99,7 +99,6 @@ site:
                   title: Phytodesalination Database v1.0
                   path: phytodesalination-database-v1.0
                   default: true
-                  draft: true
                   content:
                     directory: ./phytodesalination-database-v1.0
             - type: section
