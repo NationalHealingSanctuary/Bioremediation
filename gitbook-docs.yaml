@@ -116,7 +116,6 @@ site:
         - type: section-group
           key: section-group-6
           title: "Phytostimulation & Rhizodegradation "
-          draft: true
           children: []
     - type: section-group
       key: section-group-1
