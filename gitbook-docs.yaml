@@ -127,7 +127,6 @@ site:
                   title: Phytostimulation & Rhizodegradation
                   path: phytostimulation-and-rhizodegradation
                   default: true
-                  draft: true
                   content:
                     directory: ./phytostimulation-and-rhizodegradation
     - type: section-group
