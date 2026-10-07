@@ -111,9 +111,13 @@ site:
                   title: Phytodesalination Protocol v1.0
                   path: phytodesalination-protocol-v1.0
                   default: true
-                  draft: true
                   content:
                     directory: ./phytodesalination-protocol-v1.0
+        - type: section-group
+          key: section-group-6
+          title: "Phytostimulation & Rhizodegradation "
+          draft: true
+          children: []
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
