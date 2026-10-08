@@ -129,6 +129,19 @@ site:
                   default: true
                   content:
                     directory: ./phytostimulation-and-rhizodegradation
+            - type: section
+              key: section-10
+              title: Phytostimulation & Rhizodegradation Protocol
+              path: phytostimulation-and-rhizodegradation-protocol
+              children:
+                - type: space
+                  key: space-11
+                  title: Phytostimulation & Rhizodegradation Protocol
+                  path: phytostimulation-and-rhizodegradation-protocol
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./phytostimulation-and-rhizodegradation-protocol
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
