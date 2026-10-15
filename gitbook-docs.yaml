@@ -133,7 +133,20 @@ site:
           key: section-group-7
           title: Mycoremediation
           draft: true
-          children: []
+          children:
+            - type: section
+              key: section-10
+              title: Mycoremediation Database
+              path: mycoremediation-database
+              children:
+                - type: space
+                  key: space-11
+                  title: Mycoremediation Database
+                  path: mycoremediation-database
+                  default: true
+                  draft: true
+                  content:
+                    directory: ./mycoremediation-database
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
