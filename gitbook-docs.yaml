@@ -142,6 +142,11 @@ site:
                   draft: true
                   content:
                     directory: ./phytostimulation-and-rhizodegradation-protocol
+        - type: section-group
+          key: section-group-7
+          title: Mycoremediation
+          draft: true
+          children: []
     - type: section-group
       key: section-group-1
       title: Public Governance Archive
