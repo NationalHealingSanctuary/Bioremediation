@@ -51,6 +51,11 @@ site:
               path: ivm-change-log-2.0
               content:
                 directory: ./ivm-and-coppicing-protocol
+        - type: section-group
+          key: section-group-7
+          title: Mycoremediation Database
+          draft: true
+          children: []
     - type: section-group
       key: section-group-3
       title: Biological Remediation Protocols
