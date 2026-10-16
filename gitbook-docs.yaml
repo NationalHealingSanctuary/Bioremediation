@@ -143,7 +143,6 @@ site:
                   title: Mycoremediation
                   path: mycoremediation
                   default: true
-                  draft: true
                   content:
                     directory: ./mycoremediation
     - type: section-group
