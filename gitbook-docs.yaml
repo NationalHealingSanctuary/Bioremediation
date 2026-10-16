@@ -149,7 +149,8 @@ site:
             - type: section
               key: section-12
               title: Mycoremediation Database
-              path: mycoremediation-database-1
+              path: mycoremediation-database
+              description: ""
               children:
                 - type: space
                   key: space-13
