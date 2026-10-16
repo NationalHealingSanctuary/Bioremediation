@@ -136,7 +136,7 @@ site:
             - type: section
               key: section-10
               title: Mycoremediation Protocol
-              path: mycoremediation
+              path: mycoremediation-protocol
               description: ""
               children:
                 - type: space
