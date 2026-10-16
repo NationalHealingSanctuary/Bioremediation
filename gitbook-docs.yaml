@@ -135,12 +135,13 @@ site:
           children:
             - type: section
               key: section-10
-              title: Mycoremediation
+              title: Mycoremediation Protocol
               path: mycoremediation
+              description: ""
               children:
                 - type: space
                   key: space-11
-                  title: Mycoremediation
+                  title: Mycoremediation Protocol
                   path: mycoremediation
                   default: true
                   content:
