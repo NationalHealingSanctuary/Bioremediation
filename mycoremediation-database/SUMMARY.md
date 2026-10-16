@@ -1,3 +1,4 @@
 # Table of contents
 
-* [PageMycoremediation V1.0](README.md)
+* [Page](README.md)
+  * [Mycoremediation Database](page/mycoremediation-database.md)
