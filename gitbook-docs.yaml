@@ -134,20 +134,6 @@ site:
           title: Mycoremediation
           children:
             - type: section
-              key: section-11
-              title: Copy of Mycoremediation Database
-              path: copy-of-mycoremediation-database
-              description: ""
-              children:
-                - type: space
-                  key: space-12
-                  title: Copy of Mycoremediation Database
-                  path: copy-of-mycoremediation-database
-                  default: true
-                  draft: true
-                  content:
-                    directory: ./copy-of-mycoremediation-database
-            - type: section
               key: section-10
               title: Mycoremediation
               path: mycoremediation
