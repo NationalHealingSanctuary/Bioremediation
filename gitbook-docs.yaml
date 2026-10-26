@@ -77,19 +77,6 @@ site:
           title: "Phytodesalination "
           children:
             - type: section
-              key: section-5
-              title: Phytodesalination v1.0
-              path: phytodesalination
-              description: ""
-              children:
-                - type: space
-                  key: space-5
-                  title: Phytodesalination v1.0
-                  path: phytodesalination
-                  default: true
-                  content:
-                    directory: ./phytodesalination
-            - type: section
               key: section-6
               title: Phytodesalination Database v1.0
               path: phytodesalination-database-v1.0
