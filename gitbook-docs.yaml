@@ -16,13 +16,6 @@ site:
           default: true
           content:
             directory: ./national-healing-sanctuary-home
-        - type: space
-          key: space-12
-          title: Google Canvas
-          path: google-canvas
-          draft: true
-          content:
-            directory: ./national-healing-sanctuary-home/google-canvas
     - type: section
       key: section-1
       title: Conceptual Site Model
