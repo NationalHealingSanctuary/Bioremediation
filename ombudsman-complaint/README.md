@@ -1,14 +1,10 @@
 # Ombudsman\_Complaint\_Leacock
 
-## COMPLAINTS (MALADMINISTRATION) ACT (2018 REVISION)
-
-File #:
-
 ### Personal Information
 
 **Full Name:** Leacock Chase A\
 **Date:** 11/18/2026\
-**Address:** 2026 Britannia Drive KY1-1001\
+**Address:**\
 **Phone:** 1-345-547-4618\
 **Email:** ChaseLeacock@gmail.com\
 **Occupation:** Full Stack Developer
@@ -33,8 +29,7 @@ The government’s conscious refusal to engage with a highly viable, community-l
 
 _I certify that my answers are true and complete to the best of my knowledge._
 
-**Signature:** Chase A Leacock 11/18/2026
+**Signature:** Chase A Leacock&#x20;
 
-**Date:**
+**Date:**&#x31;1/18/2026
 
-To view our Privacy Policy click here
